@@ -6,4 +6,4 @@
 I’m passionate about pushing the boundaries of what I can do in tech. Whether it’s learning new programming languages, contributing to student leadership, or participating in summer institutes like SGX3, I’m always looking to grow. I bring a blend of technical skills — like C++, Python, and version control — with a collaborative spirit and a drive to make meaningful impact. Long term, I aspire to be part of teams that design scalable, innovative technology that improves access, connection, and quality of life — especially in underrepresented communities. I’m excited to take every opportunity that brings me closer to that goal.
 </p>
 
-<img src="silas_headshot.img" width="150px">
+<img src="Silas_headshot.jpeg" width="150px">
